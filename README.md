@@ -10,17 +10,18 @@ I'm a **Backend Developer** driven by an unwavering passion for diving deep into
 - 🎨 Creative and resourceful in leading and contributing to projects.
 
 ## 🚀 My Mission
-To continuously grow as a developer, bringing fresh perspectives to every challenge and collaborating with others to achieve impactful results. I believe that innovation and teamwork are the keys to creating amazing solutions.
+To continuously grow as a developer, bringing fresh perspectives to every challenge and collaborating with others to achieve impactful results. I believe that innovation and teamwork are the keys to creating amazing solutions. 
 
 ## 🔧 Tech Skills
 
-Here are some of the tools and technologies I'm familiar with:
+Here are some of the tools and technologies I'm proficient in:
 
-- **Backend:** Node.js, Python, Django, Express.js
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **APIs:** RESTful APIs, GraphQL
-- **Version Control:** Git, GitHub
-- **Other Tools:** Docker, Chroma, NinjaTrader (configurations on Mac), Shopify API integrations
+- **Programming Languages:** Python, JavaScript, C#
+- **Frameworks & Libraries:** .NET, Angular, Node.js, Bootstrap
+- **Databases:** MySQL, MongoDB
+- **Frontend:** CSS, HTML
+- **Tools & Platforms:** GitHub, Postman, Streamlit, Hugging Face
+- **Methodologies:** Scrum
 
 ## 🌐 E-commerce & Business Enthusiast
 I bring my experience in **E-commerce design** and my passion for **business innovation** to create solutions that not only work but also resonate with users. From crafting engaging interfaces to connecting APIs for seamless user experiences, I strive to merge creativity and functionality.
@@ -30,12 +31,11 @@ I bring my experience in **E-commerce design** and my passion for **business inn
 - **Learning:** Embracing every opportunity to grow.  
 - **Responsibility:** Giving my best in every task I take on.  
 
+## 💻 Operating System
+I primarily work on **iOS** systems, leveraging their reliability and performance to create robust solutions.
+
 ## 💼 Let's Connect
 I'm always open to discussing new opportunities, challenges, and collaborations. Feel free to reach out!
-
-- 📧 Email: [your email address]  
-- 💼 LinkedIn: [your LinkedIn profile link]  
-- 🌟 Portfolio: [your portfolio link]  
 
 ---
 
